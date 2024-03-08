@@ -1,5 +1,5 @@
 const fetchPromise = fetch(
-    "https://mdn.github.io/learningarea/javascript/apis/fetching-data/can-store/products.json",
+  "https://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/products.json",
   );
   
   fetchPromise
